@@ -1,10 +1,9 @@
 ---
 layout: post
-title: Welcome
+title: Blog Example
 subtitle: "Subtitle..."
 date: 2017-11-03
 category: [Blog]
-author: migaman
 background: "img/posts/01.jpg"
 ---
 
