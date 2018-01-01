@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Bye bye Facebook
+title: Bye Bye Facebook
 subtitle: "Facebook tries to trick you to get your photo ID"
 date: 2018-01-01
 category: [Blog]
@@ -39,6 +39,6 @@ Luckily I haven't used Facebook very often in recent years, so I was easily able
 Problem? It's not possible because of this automated security process:-)
 
 Even it's my personal data and I have the login credentials they don't let me delete it. 
-ByeBye Facebook, Internet is greater than you!
+Bye Bye Facebook, Internet is greater than you!
 
 
