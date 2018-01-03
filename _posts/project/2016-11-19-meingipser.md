@@ -2,7 +2,7 @@
 layout: post
 title: meingipser.ch
 subtitle: "Single-Page-Site for a plasterer company"
-date: 2015-07-19
+date: 2016-11-19
 category: [Project]
 background: "img/posts/chris-barbalis-205229.jpg"
 headerimageauthor: Chris Barbalis
