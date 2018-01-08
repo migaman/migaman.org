@@ -1,5 +1,5 @@
 # migaman.org
-My personal [website](http://migaman.org). It is built with [Jekyll](http://jekyllrb.com/) and runs on [github-pages](https://pages.github.com/). The published site is in the [gh-pages](/migaman/migaman.org/tree/gh-pages) branch. It contains the generated site, because the jekyll-paginate-v2 plugin is not supported from github-pages.
+My personal [website](http://migaman.org). It is built with [Jekyll](http://jekyllrb.com/). ~~and runs on [github-pages](https://pages.github.com/). The published site is in the [gh-pages](/migaman/migaman.org/tree/gh-pages) branch. It contains the generated site, because the jekyll-paginate-v2 plugin is not supported from github-pages.~~
 
 
 
